@@ -1,0 +1,23 @@
+﻿Hugo Lloris,France,1,GK,1986-12-26,57,Tottenham Hotspur
+Mathieu Debuchy,France,2,DF,1985-07-28,21,Newcastle United
+Patrice Evra,France,3,DF,1981-05-15,58,Manchester United
+Raphaël Varane,France,4,DF,1993-04-25,6,Real Madrid
+Mamadou Sakho,France,5,DF,1990-02-13,19,Liverpool
+Yohan Cabaye,France,6,MF,1986-01-14,30,Paris Saint-Germain
+Rémy Cabella,France,7,MF,1990-03-08,1,Montpellier
+Mathieu Valbuena,France,8,MF,1984-09-28,34,Marseille
+Olivier Giroud,France,9,FW,1986-09-30,30,Arsenal
+Karim Benzema,France,10,FW,1987-12-19,66,Real Madrid
+Antoine Griezmann,France,11,MF,1991-03-21,4,Real Sociedad
+Rio Mavuba,France,12,MF,1984-03-08,12,Lille
+Eliaquim Mangala,France,13,DF,1991-02-13,3,Porto
+Blaise Matuidi,France,14,MF,1987-04-09,23,Paris Saint-Germain
+Bacary Sagna,France,15,DF,1983-02-14,41,Arsenal
+Stéphane Ruffier,France,16,GK,1986-09-27,2,Saint-Étienne
+Lucas Digne,France,17,DF,1993-07-20,2,Paris Saint-Germain
+Moussa Sissoko,France,18,MF,1989-08-16,17,Newcastle United
+Paul Pogba,France,19,MF,1993-03-15,11,Juventus
+Loïc Rémy,France,20,FW,1987-01-02,25,Newcastle United
+Laurent Koscielny,France,21,DF,1985-09-10,17,Arsenal
+Morgan Schneiderlin,France,22,MF,1989-11-08,1,Southampton
+Mickaël Landreau,France,23,GK,1979-05-14,11,Bastia

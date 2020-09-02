@@ -1,0 +1,8 @@
+>01234|ABCDE|olifant|16S ribosomaal RNA gen
+AGAGTTTGAT
+AGAGCTTGCT
+>56789|FGHIJ|ezel|16S ribosomaal RNA gen
+GAACG
+CTGGC
+GGCAT
+GCCTT

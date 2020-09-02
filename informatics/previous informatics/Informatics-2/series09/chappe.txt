@@ -1,0 +1,37 @@
+﻿Agen	Bordeaux
+Agen	Toulouse
+Angoulème	Poitier
+Angoulème	Bordeaux
+Anvers	Bruxelles
+Avignon	Nîmes
+Avignon	Valence
+Avranches	Cherbourg
+Avranches	Dreux
+Avranches	Rennes
+Avranches	St Brieux
+Bayonne	Béhobie
+Bayonne	Bordeaux
+Besançon	Dijon
+Blaye	Bordeaux
+Boulogne	Eu
+Boulogne	Lille
+Boulonge	Calais
+Brest	St Brieux
+Bruxelles	Lille
+Chalons sur Saône	Dijon
+Chalons sur Saône	Lyon
+Dijon	Tonerre
+Dreux	Paris
+Dunkerque	Lille
+Lille	Paris
+Lyon	Turin
+Lyon	Valence
+Marseille	Toulon
+Montpellier	Narbonne
+Montpellier	Nîmes
+Nantes	Rennes
+Narbonne	Perpignan
+Narbonne	Toulouse
+Paris	Tonerre
+Paris	Tours
+Poitiers	Tours

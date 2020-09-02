@@ -1,0 +1,24 @@
+@sample sequence 1
+GGAAGTCCATGGAGTTATTTGCGGTAACCGGGACCGGCCT
++sample sequence 1
+ba^aaabaa`]baaaaa_aab]D^^`b`aYDW]abaa`^a
+@sample sequence 2
+CTCCTTATAGCATCATACGCACAGCTGGTATCCCCATTGCTTATTAGGGTTCAGCCCTGTCGCTCTCCCC
++sample sequence 2
+ababa``aaaababaaaabaa_``aa``]^aa_`aa_Z_aaaaa^baaaaaaaaaaaaaaaaaa`^```a
+@sample sequence 3
+GGAAGTCCATGGAGTTATTTGCGGTAACCGGGACCGGCCTGGGGTTAGATTTTATGTCGT
++sample sequence 3
+ba^aaabaa`]baaaaa_aab]D^^`b`aYDW]abaa`^ababbaaabaaaaa`]`ba`]
+@sample sequence 4
+TATAC
++sample sequence 4
+baab`
+@sample sequence 5
+CTCCTTATAGCATCATACGCACAGCTGGTATCCCCATTGCTTATTAGGGT
++sample sequence 5
+ababa``aaaababaaaabaa_``aa``]^aa_`aa_Z_aaaaa^baaaa
+@sample sequence 6
+GGAAGTCCATGGAGTTATTTGCGGTAACCGGGACCGGCCTGGGGTTAGATTTTATGTCGT
++sample sequence 6
+ba^aaabaa`]baaaaa_aab]D^^`b`aYDW]abaa`^ababbaaabaaaaa`]`ba`]

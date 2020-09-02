@@ -1,0 +1,23 @@
+﻿Cédric Si Mohamed,Algeria,1,GK,1985-01-09,1,CS Constantine
+Madjid Bougherra,Algeria,2,DF,1982-10-07,62,Lekhwiya
+Faouzi Ghoulam,Algeria,3,DF,1991-02-01,6,Napoli
+Essaïd Belkalem,Algeria,4,DF,1989-01-01,13,Watford
+Rafik Halliche,Algeria,5,DF,1986-09-02,29,Académica
+Djamel Mesbah,Algeria,6,DF,1984-10-09,26,Livorno
+Hassan Yebda,Algeria,7,MF,1984-05-14,25,Udinese
+Medhi Lacen,Algeria,8,MF,1984-05-15,30,Getafe
+Nabil Ghilas,Algeria,9,FW,1990-04-20,5,Porto
+Sofiane Feghouli,Algeria,10,MF,1989-12-26,19,Valencia
+Yacine Brahimi,Algeria,11,MF,1990-02-08,6,Granada
+Carl Medjani,Algeria,12,DF,1985-05-15,26,Valenciennes
+Islam Slimani,Algeria,13,FW,1988-06-18,20,Sporting CP
+Nabil Bentaleb,Algeria,14,MF,1994-11-24,3,Tottenham Hotspur
+El Arbi Hillel Soudani,Algeria,15,FW,1987-11-25,22,Dinamo Zagreb
+Mohamed Zemmamouche,Algeria,16,GK,1985-03-19,7,USM Alger
+Liassine Cadamuro-Bentaïba,Algeria,17,DF,1988-03-05,7,Mallorca
+Abdelmoumene Djabou,Algeria,18,MF,1987-01-31,8,Club Africain
+Saphir Taïder,Algeria,19,MF,1992-02-29,11,Internazionale
+Aïssa Mandi,Algeria,20,DF,1991-10-22,2,Reims
+Riyad Mahrez,Algeria,21,MF,1991-02-21,2,Leicester City
+Mehdi Mostefa,Algeria,22,MF,1983-08-30,23,Ajaccio
+Raïs M'Bolhi,Algeria,23,GK,1986-04-25,28,CSKA Sofia

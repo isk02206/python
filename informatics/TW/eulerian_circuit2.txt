@@ -1,0 +1,13 @@
+input:
+AT -> TG
+TG -> GG,GC
+GG -> GC
+GC -> CA,CG
+CG -> GT
+GT -> TG
+CA -> AT
+output:
+TG->GC->CA->AT->TG->GG->GC->CG->GT->TG
+CG->GT->TG->GC->CA->AT->TG->GG->GC->CG
+GC->CG->GT->TG->GC->CA->AT->TG->GG->GC
+AT->TG->GG->GC->CG->GT->TG->GC->CA->AT

@@ -1,0 +1,5 @@
+item=int(input())
+cost=float(input())
+UPC=int(input())
+mile=int(input())
+print("Phillips spent $"+str(float(item*cost)), "for", int((item//UPC)*mile), "frequent-flyer miles.")

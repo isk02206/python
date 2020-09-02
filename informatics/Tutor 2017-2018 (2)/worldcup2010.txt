@@ -1,0 +1,49 @@
+Germany,Saudi Arabia,8-0,E
+Brazil,China PR,4-0,C
+Argentina,England,0-1,F
+Denmark,Senegal,1-1,A
+South Africa,Slovenia,1-0,B
+Portugal,Poland,4-0,D
+South Africa,Spain,2-3,B
+Republic of Ireland,Cameroon,1-1,E
+Russia,Tunisia,2-0,H
+Italy,Croatia,1-2,G
+France,Senegal,0-1,A
+England,Sweden,1-1,F
+Paraguay,South Africa,2-2,B
+Spain,Slovenia,3-1,B
+Turkey,China PR,3-0,C
+Slovenia,Paraguay,1-3,B
+Germany,Republic of Ireland,1-1,E
+Spain,Paraguay,3-1,B
+Brazil,Turkey,2-1,C
+Sweden,Nigeria,2-1,F
+Costa Rica,Brazil,2-5,C
+Saudi Arabia,Republic of Ireland,0-3,E
+South Korea,Poland,2-0,D
+Poland,United States,3-1,D
+Sweden,Argentina,1-1,F
+Senegal,Uruguay,3-3,A
+Japan,Russia,1-0,H
+Tunisia,Japan,0-2,H
+Cameroon,Saudi Arabia,1-0,E
+Japan,Belgium,2-2,H
+Cameroon,Germany,0-2,E
+France,Uruguay,0-0,A
+China PR,Costa Rica,0-2,C
+South Korea,United States,1-1,D
+Mexico,Italy,1-1,G
+Portugal,South Korea,0-1,D
+Uruguay,Denmark,1-2,A
+Mexico,Ecuador,2-1,G
+Costa Rica,Turkey,1-1,C
+Nigeria,England,0-0,F
+Argentina,Nigeria,1-0,F
+Croatia,Mexico,0-1,G
+Ecuador,Croatia,1-0,G
+Belgium,Russia,3-2,H
+Tunisia,Belgium,1-1,H
+Italy,Ecuador,2-0,G
+United States,Portugal,3-2,D
+Denmark,France,2-0,A
+
